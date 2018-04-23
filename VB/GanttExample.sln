@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00000000-0000-0000-0000-000000000000}") = "GanttExample", "GanttExample.vbproj", "{6086846A-D75D-491A-99F5-F828042C2BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6086846A-D75D-491A-99F5-F828042C2BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6086846A-D75D-491A-99F5-F828042C2BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6086846A-D75D-491A-99F5-F828042C2BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6086846A-D75D-491A-99F5-F828042C2BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
